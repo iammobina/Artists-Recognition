@@ -9,7 +9,7 @@ There are two categories of problems with this face recognition system, face ver
 *  Face Recognition is used to identify a person. It is a 1:K matching problem. 
 
 
-##### Artist pictures are available in the image directory.
+##### Artist pictures are available in the artists directory.
 
 
 ## Language
